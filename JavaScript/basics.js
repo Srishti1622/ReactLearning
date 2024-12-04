@@ -1,3 +1,5 @@
+// Notes: https://www.canva.com/design/DAGYV54CagY/QWx_a8wu_C3RVN2BX4HtQw/edit?utm_content=DAGYV54CagY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 // Example 1:
 
 function sum(a,b){
