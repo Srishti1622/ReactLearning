@@ -22,8 +22,3 @@ function sum1(a,b){
 // we will get "undefined" as return is a complete statment hence the function sum is returning nothing
 console.log(sum1(3,3))
 
-// testing
-// testing
-// testing
-// testing
-// testing
